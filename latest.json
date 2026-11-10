@@ -1,22 +1,22 @@
 {
   "app": "huangji-pet",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "minShell": "1.1.5",
-  "notes": "支持自动更新：以后有新版本会在后台自动下载，重启一下就能用；控制面板新增「更新」区块。连续点击会越说越来劲（哈哈哈哈别催别催 → 你看你又急 → 我知道你很急但你先别急）。",
-  "published": "2026-11-10T07:22:57.413Z",
+  "notes": "控制面板新增「台词」：可以自己添加、修改、删除气泡台词，选什么时候说，点喇叭马上试听，改完立即生效、不用再更新。默认加了一句“我画地为牢了啊厉娜！”。长台词的气泡会自动换行。",
+  "published": "2026-11-10T07:43:25.678Z",
   "bundle": {
-    "file": "content-1.1.5.asar",
-    "size": 253225,
-    "sha256": "7e1b1b7dcdafe205fd8188296e4accb3515efe57590ac88b7f1b5e664e2d4d5f",
+    "file": "content-1.1.6.asar",
+    "size": 272503,
+    "sha256": "1b4c0e32ff96905f1561ac5d6eb99a0bb7a861f27a39666f31e638f1b3529546",
     "urls": [
-      "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.5/content-1.1.5.asar",
-      "https://cdn.jsdelivr.net/gh/xuan-88-505/huangji-pet@v1.1.5/updates/content-1.1.5.asar"
+      "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.6/content-1.1.6.asar",
+      "https://cdn.jsdelivr.net/gh/xuan-88-505/huangji-pet@v1.1.6/updates/content-1.1.6.asar"
     ]
   },
-  "page": "https://github.com/xuan-88-505/huangji-pet/releases/tag/v1.1.5",
+  "page": "https://github.com/xuan-88-505/huangji-pet/releases/tag/v1.1.6",
   "full": {
-    "arm64": "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.5/HuangjiPet-1.1.5-Apple-Silicon.zip",
-    "x64": "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.5/HuangjiPet-1.1.5-Intel.zip"
+    "arm64": "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.6/HuangjiPet-1.1.6-Apple-Silicon.zip",
+    "x64": "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.6/HuangjiPet-1.1.6-Intel.zip"
   },
-  "sig": "tje5j9IUr93L2wJ2/VdXOvTmRVuiuxB5kO3m+C0MtoCy3JQHJUkXdrutL4kLFBGc9HMPrww2JYxqEoBJOVLJAg=="
+  "sig": "P1bJB2+anBvKsb7/1yoA/FfuO+O45hiFQQNPhCpdXfXE97Ji5hS+W9Spfj7eEU2O6tmtmQ41d5V/NdZJrHT9Bg=="
 }
