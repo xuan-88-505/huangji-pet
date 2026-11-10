@@ -1,0 +1,22 @@
+{
+  "app": "huangji-pet",
+  "version": "1.1.5",
+  "minShell": "1.1.5",
+  "notes": "支持自动更新：以后有新版本会在后台自动下载，重启一下就能用；控制面板新增「更新」区块。连续点击会越说越来劲（哈哈哈哈别催别催 → 你看你又急 → 我知道你很急但你先别急）。",
+  "published": "2026-11-10T07:22:57.413Z",
+  "bundle": {
+    "file": "content-1.1.5.asar",
+    "size": 253225,
+    "sha256": "7e1b1b7dcdafe205fd8188296e4accb3515efe57590ac88b7f1b5e664e2d4d5f",
+    "urls": [
+      "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.5/content-1.1.5.asar",
+      "https://cdn.jsdelivr.net/gh/xuan-88-505/huangji-pet@v1.1.5/updates/content-1.1.5.asar"
+    ]
+  },
+  "page": "https://github.com/xuan-88-505/huangji-pet/releases/tag/v1.1.5",
+  "full": {
+    "arm64": "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.5/HuangjiPet-1.1.5-Apple-Silicon.zip",
+    "x64": "https://github.com/xuan-88-505/huangji-pet/releases/download/v1.1.5/HuangjiPet-1.1.5-Intel.zip"
+  },
+  "sig": "tje5j9IUr93L2wJ2/VdXOvTmRVuiuxB5kO3m+C0MtoCy3JQHJUkXdrutL4kLFBGc9HMPrww2JYxqEoBJOVLJAg=="
+}
